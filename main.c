@@ -3,7 +3,8 @@
 int main() {
 	int a, b;
 	printf("Unesite brojeve");
-	scanf_s("%d %d", &a, &b);
+	scanf("%d", &a);
+	scanf("%d", &b);
 	printf("Proizvod je: %d", a * b);
 	return 0;
 }
