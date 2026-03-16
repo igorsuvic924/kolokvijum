@@ -1,0 +1,2 @@
+Github: https://github.com/igorsuvic924/kolokvijum
+Docker Image: igorsuvic924/proizvod:v1

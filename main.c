@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 int main() {
-	int a = 5, b = 3;
+	int a, b;
+	printf("Unesite brojeve");
+	scanf_s("%d %d", &a, &b);
 	printf("Proizvod je: %d", a * b);
 	return 0;
 }
